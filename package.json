@@ -1,0 +1,19 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "339 urlshortner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abesisu/azureUrlShortener.git"
+  },
+  "author": "Abe Scheideman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abesisu/azureUrlShortener/issues"
+  },
+  "homepage": "https://github.com/abesisu/azureUrlShortener#readme"
+}
